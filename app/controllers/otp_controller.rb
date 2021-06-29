@@ -1,0 +1,4 @@
+class OtpController < ApplicationController
+
+
+end
